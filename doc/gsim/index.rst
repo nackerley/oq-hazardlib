@@ -62,6 +62,7 @@ Built-in GSIMs
     gsim_table
     gupta_2010
     idriss_2014
+    kanno_2006
     lin_lee_2008
     lin_2009
     mcverry_2006
@@ -69,6 +70,7 @@ Built-in GSIMs
     montalva_2015
     nshmp_2014
     pezeshk_2011
+    raghukanth_iyengar_2007
     rietbrock_2013
     sadigh_1997
     sharma_2009
